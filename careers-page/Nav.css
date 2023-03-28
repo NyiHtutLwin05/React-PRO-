@@ -1,0 +1,9 @@
+nav .list li {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  font-weight: 700;
+}
+nav .list .content a {
+  color: 'red';
+}
